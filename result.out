@@ -1,0 +1,76 @@
+Test #1
+Quicksort : 18ms
+Heapsort : 139ms
+Mergesort : 66ms
+Cppsort : 39ms
+Python_sort : 27ms
+
+Test #2
+Quicksort : 15ms
+Heapsort : 170ms
+Mergesort : 64ms
+Cppsort : 30ms
+Python_sort : 13ms
+
+Test #3
+Quicksort : 107ms
+Heapsort : 239ms
+Mergesort : 145ms
+Cppsort : 122ms
+Python_sort : 8ms
+
+Test #4
+Quicksort : 115ms
+Heapsort : 249ms
+Mergesort : 147ms
+Cppsort : 123ms
+Python_sort : 9ms
+
+Test #5
+Quicksort : 117ms
+Heapsort : 241ms
+Mergesort : 150ms
+Cppsort : 123ms
+Python_sort : 9ms
+
+Test #6
+Quicksort : 113ms
+Heapsort : 228ms
+Mergesort : 152ms
+Cppsort : 123ms
+Python_sort : 9ms
+
+Test #7
+Quicksort : 120ms
+Heapsort : 248ms
+Mergesort : 149ms
+Cppsort : 124ms
+Python_sort : 8ms
+
+Test #8
+Quicksort : 111ms
+Heapsort : 230ms
+Mergesort : 146ms
+Cppsort : 130ms
+Python_sort : 8ms
+
+Test #9
+Quicksort : 114ms
+Heapsort : 231ms
+Mergesort : 147ms
+Cppsort : 121ms
+Python_sort : 15ms
+
+Test #10
+Quicksort : 113ms
+Heapsort : 216ms
+Mergesort : 159ms
+Cppsort : 135ms
+Python_sort : 9ms
+
+Average excecute time:
+Quicksort : 94.3ms
+Heapsort : 219.1mx
+Mergesort : 132.5ms
+C++sort : 107ms
+Pysort : 11.5ms
