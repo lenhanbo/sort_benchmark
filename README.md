@@ -6,3 +6,4 @@ Source code để chạy thuật toán sort(numPy) nằm trong file main.py
 
 Kết quả benchmark được in ra trong file result.out.
 
+Chạy file test_gen.cpp để sinh bộ test mới
